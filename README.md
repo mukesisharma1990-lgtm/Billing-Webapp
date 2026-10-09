@@ -1,5 +1,5 @@
 # Showroom Manager — Billing Edition (Web App / PWA)
-
+// testing coderabbit
 MyBillBook जैसा **showroom billing app** — GST invoice, estimate, barcode billing, stock aur reports.
 पूरा offline चलता है, data आपके phone/browser में ही रहता है (कोई login नहीं, कोई server नहीं)।
 
